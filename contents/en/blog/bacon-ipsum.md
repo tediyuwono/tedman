@@ -1,3 +1,11 @@
+---
+name: 'bacon-ipsum'
+title: Bacon Ipsum
+year: 28 May 2019
+id: 'bacon-ipsum'
+description: |
+  ubah description.
+---
 
 Mencoba edit content
 
