@@ -5,13 +5,7 @@
   </div>
 </template>
 <script>
-  import Footer from '~/components/Sections/Footer'
 
-  export default {
-    components: {
-      Footer
-    }
-  }
 </script>
 <style lang="scss">
 .layout {
