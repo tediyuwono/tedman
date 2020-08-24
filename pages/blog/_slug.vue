@@ -30,17 +30,7 @@
             <p class="elevate-cover__description">{{ description }}</p>
           </div>
         </div>
-        <ImageResponsive
-          :imageURL="'blog/' + id + '/_main.jpg'"
-          v-if="!noMainImage"
-          width="100%"
-          class="elevate-cover__img"
-          :alt="'Blog picture'" />
-        <component
-          v-else
-          class="elevate-cover__img"
-          :is="extraComponentLoader"
-        />
+        
       </div>
     </div>
     <div class="container small">
